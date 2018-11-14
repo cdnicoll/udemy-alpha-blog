@@ -22,7 +22,6 @@ project
 .idea
 *.idea/*
 .vscode
-testboor
 
 # Ruby Stuff
 *.rbc
