@@ -21,6 +21,7 @@ project
 *.sublime-project
 .idea
 *.idea/*
+.vscode
 
 # Ruby Stuff
 *.rbc
